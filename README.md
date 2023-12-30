@@ -1,5 +1,5 @@
 # Group 2
-# Project Title - Sport-Complex-Management-System
+# Project Title - Sport Complex Management System
 ## Group Members:
 
 
