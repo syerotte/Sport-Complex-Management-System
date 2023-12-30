@@ -1,11 +1,7 @@
 # Group 2
 # Project Title - Sport-Complex-Management-System
 ## Group Members:
-1. Muhammad Mustaqim Bin Muhammad Kamal 2111261
-2. Wan SaifulAmir Bin Wan Mohd.Faizal 2116109
-3. Benjamin Irfan bin Mohd Ilahi 2016485
-4. Muhammad Farhan bin Mohd Noorshahran 2113563
-5. Amirul Hakim bin Mohd Radzi 2113915
+
 
 Lecturer: DR. MOHD KHAIRUL AZMI BIN HASSAN
 
