@@ -1,4 +1,4 @@
-# Group 2
+# Group 3
 # Project Title - Sport Complex Management System
 ## Group Members:
 1. AHMAD SYAFIQ DANIEL BIN SYAHRUL FADZIL 2110919
