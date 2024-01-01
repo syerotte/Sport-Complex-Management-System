@@ -61,7 +61,7 @@ Administrators can manage staff information within the system, including coaches
 ## ER Diagram
 
 ## Sequence Diagram
-![Sequence Diagram](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/283d2929-2d4f-447e-a30c-599f98c9db0f)
+![Sequence Diagram](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/763a6fe5-7271-499b-833b-8a050317ca00)
 
 ## Mockup
 
