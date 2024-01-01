@@ -66,4 +66,25 @@ Administrators can manage staff information within the system, including coaches
 ![Sequence Diagram](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/21c2709a-0864-4165-8077-24edaa22db3f)
 
 ## Mockup
+Login Page
+![Login](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/aa9a6172-af92-4c45-aad5-96bd2c694529)
+
+Create an Account Page
+![Create an Account](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/fafc228d-d0a1-4820-b31e-67c60d12843f)
+
+Customer Page
+![Customer](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/5be3b75a-4716-44a0-b9ff-4bd278763f17)
+
+Staff Page
+![Staff](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/49dd7a23-bb07-495b-b916-7c32be82e3f0)
+
+Equipment Page
+![Equipment](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/3b3a6d6d-d310-4cd9-aafb-bbea769fbe6e)
+
+Booking Page
+![Booking](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/7c67844d-388d-4414-9f20-1c7b308583dd)
+
+Membership Page
+![Membership](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/141a3fab-05d3-41f3-abad-f355f46ad5d1)
+
 
