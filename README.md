@@ -69,7 +69,7 @@ Administrators can manage staff information within the system, including coaches
 1) Login Page
 ![Login](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/aa9a6172-af92-4c45-aad5-96bd2c694529)
 
-2) Create an Account Page
+2) Register Page
 ![Create an Account](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/fafc228d-d0a1-4820-b31e-67c60d12843f)
 
 3) Customer Page
