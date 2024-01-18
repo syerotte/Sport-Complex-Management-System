@@ -1,3 +1,5 @@
+# Final Report
+
 # Group 3
 # Project Title - Sport Complex Management System
 ## Group Members:
@@ -88,3 +90,44 @@ Administrators can manage staff information within the system, including coaches
 ![Membership](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/141a3fab-05d3-41f3-abad-f355f46ad5d1)
 
 
+
+## System Demo 
+1) Register Page
+![sign up](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/7f6ed5bf-67a4-4996-a038-fee425635980)
+
+2) Login Page
+![login](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/8c6642b5-1db3-416c-ba1f-0f2ca546df66)
+
+
+3) Home page
+![home](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/1dcf8056-8007-4013-8af1-d65ab5039cc5)
+
+4) Staff Page
+![staff list](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/5543f858-5b77-46c5-a0a5-1ac03318e429)
+
+5) Update Staff page  
+![update staff](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/d47e7be6-c105-44b7-a174-65290575b0d3)
+
+6) Maintenance page
+![maintenance list](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/51827555-1a50-4d30-ba82-1978d2c42c7f)
+
+7) Update Maintenance page 
+![update maintenance ](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/720aed38-b252-4b8c-82fe-ab4f0424c4d2)
+
+8) Equipment Page
+![equiment list](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/66bd7266-094a-42f0-89ca-7e704298a6f1)
+
+9) Update Equipment Page
+![update equiment](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/f4f9f4b9-e055-4ae6-adba-598142cdb5d0)
+
+10) Booking Page
+![booking list](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/311d4310-f643-44e2-b061-54d4325213a5)
+
+11) Update Booking Page
+![update booking](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/ccf88206-977e-4962-a29b-6f3320b7d873)
+
+12) Membership Page
+![membership list](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/60a74bf4-8e72-46f8-92af-00174474ca2b)
+
+13) Update Membership Page
+![update membership](https://github.com/AubaJR23/Sport-Complex-Management-System/assets/107748397/14aad8d8-0018-4c5a-a515-c111955cb877)
