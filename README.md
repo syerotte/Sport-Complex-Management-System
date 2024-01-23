@@ -15,7 +15,7 @@ Lecturer: DR. MOHD KHAIRUL AZMI BIN HASSAN
 
 
 ## INTRODUCTION
-   Sports complexes are vital centers of activity for our community, but efficiently managing various tasks like bookings and equipment can be challenging. That's why we're developing the Sport Complex management System, a comprehensive web tool. This system aims to simplify tasks for administrators, athletes, customers, and fans by facilitating bookings, equipment management, and event coordination through a user-friendly digital platform.
+   Sports complexes are vital centers of activity for our community, but efficiently managing various tasks like bookings and equipment can be challenging. That's why we're developing the Sport Complex management System, a comprehensive web tool. This system aims to simplify tasks for administrators, athletes and customers by facilitating bookings, equipment management, and event coordination through a user-friendly digital platform.
 
 Sport complex staff will be able to maintain customer records effectively and quickly and properly access important information thanks to this project. The scheduling of booking facilities will be simplified, resulting in shorter wait times and faster access. Administrators will be able to keep an eye on inventories to guarantee that sport equipment is always available. They can also keep up-to-date records of staff shifts or schedules. This may result in greater teamwork as well as better workflows.
 
